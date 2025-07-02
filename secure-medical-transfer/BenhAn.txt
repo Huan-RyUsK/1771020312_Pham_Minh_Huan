@@ -1,0 +1,56 @@
+========================================
+       BỆNH ÁN ĐIỆN TỬ
+========================================
+
+--- THÔNG TIN HÀNH CHÍNH ---
+Mã bệnh nhân:    BN-78901
+Họ và tên:        Nguyễn Thị B
+Ngày sinh:        15/05/1985 (40 tuổi)
+Giới tính:        Nữ
+Địa chỉ:          123 Đường Giải Phóng, Quận Đống Đa, Hà Nội
+Điện thoại:       0987654321
+Ngày vào viện:    28/06/2025
+Bác sĩ điều trị:  Dr. Strange
+
+--- LÝ DO VÀO VIỆN ---
+Sốt cao liên tục, ho có đờm xanh, khó thở.
+
+--- BỆNH SỬ ---
+Bệnh nhân khởi phát bệnh cách đây 3 ngày với triệu chứng sốt 39-40°C, ho khan. Sau 1 ngày, bệnh nhân ho có đờm màu xanh lá, kèm theo mệt mỏi, đau tức ngực bên phải khi ho và cảm giác khó thở tăng dần. Đã tự mua thuốc hạ sốt (Paracetamol) tại nhà nhưng không đỡ, tình trạng khó thở nặng hơn nên đến viện.
+
+--- TIỀN SỬ ---
+- Bản thân: Khỏe mạnh, không có bệnh mãn tính như tiểu đường, cao huyết áp.
+- Dị ứng:  Không ghi nhận tiền sử dị ứng thuốc hay thức ăn.
+- Gia đình: Khỏe mạnh.
+
+--- KHÁM LÂM SÀNG (Lúc vào viện) ---
+- Toàn thân:    Tỉnh táo, tiếp xúc tốt, thể trạng trung bình. Da niêm mạc hồng.
+- Sinh hiệu:    Mạch: 110 lần/phút
+               Nhiệt độ: 39.5°C
+               Huyết áp: 110/70 mmHg
+               Nhịp thở: 28 lần/phút
+               SpO2: 92% (khí trời)
+- Hô hấp:      Phổi phải nghe có nhiều ran ẩm, ran nổ ở vùng đáy phổi. Rì rào phế nang giảm.
+
+--- KẾT QUẢ CẬN LÂM SÀNG ---
+- Công thức máu: Bạch cầu tăng cao (WBC: 15.0 G/L), Neutrophil chiếm ưu thế (85%).
+- CRP:           Tăng cao (150 mg/L).
+- X-quang ngực:   Hình ảnh đông đặc thùy dưới phổi phải.
+
+--- CHẨN ĐOÁN SƠ BỘ ---
+Viêm phổi cộng đồng mức độ trung bình do vi khuẩn, theo dõi biến chứng suy hô hấp.
+
+--- KẾ HOẠCH ĐIỀU TRỊ ---
+1. Thở oxy qua gọng kính 2-3 lít/phút.
+2. Kháng sinh đường tĩnh mạch: Ceftriaxone 2g/ngày.
+3. Hạ sốt: Paracetamol 500mg mỗi 6 giờ khi nhiệt độ > 38.5°C.
+4. Bù dịch, điện giải qua đường tĩnh mạch.
+5. Theo dõi sát sinh hiệu, SpO2 và tình trạng hô hấp.
+6. Chế độ ăn uống đủ dinh dưỡng, nghỉ ngơi tại giường.
+
+----------------------------------------
+Bác sĩ điều trị
+
+(Ký tên)
+
+Dr. Strange
